@@ -6,7 +6,12 @@ Una secuencia de imágenes (video) puede ser representado espacialmente en 3 dim
 
 ![Test Image 1](Selección_112.png)
 
-El método para la detección de vida consiste en preprocesas las imágenes utilizando un detector de rostros, generar las características con LBP-TOP y entrenar un clasificador binario. La secuencia de imágenes representa accesos reales y ataques utilizando fotografías de los individuos registrados en el sistema, como se muestra en el figura 3. 
+El método para la detección de vida consiste en preprocesas las imágenes utilizando un detector de rostros, generar las características con LBP-TOP y entrenar un clasificador binario. La secuencia de imágenes representa accesos reales y ataques utilizando fotografías de los individuos registrados en el sistema, como se muestra en el Figura 3.
+
+
+![Test Image 1](Selección_113.png)
+
+Para información mas detallada, dirigirse al [informe del proyecto.!](http://google.com)
 
 
 
