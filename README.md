@@ -13,7 +13,7 @@ El método para la detección de vida consiste en preprocesas las imágenes util
 
 La implementación logra un $96.6\%$ de accuracy en una base de 6 individuos, con 6 accesos reales y 6 ataques. De esta base de datos se logran obtener 150 secuencias de 75 frames. 
 
-Para información mas detallada, dirigirse al [informe del proyecto.](https://drive.google.com/file/d/1ND-U1ZEVcrPkyj27iJTeKd3ir2ENLbfW/view?usp=sharing)
+Para información más detallada, dirigirse al [informe del proyecto.](https://drive.google.com/file/d/1ND-U1ZEVcrPkyj27iJTeKd3ir2ENLbfW/view?usp=sharing)
 
 
 
